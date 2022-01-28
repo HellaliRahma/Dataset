@@ -1,4 +1,4 @@
-Time,Temperature_Comedor_Sensor,Temperature_Exterior_Sensor,Lighting_Habitacion_Sensor,state_window,state_bed,real_action
+Time,Temperature_Room_Sensor,Temperature_Exterior_Sensor,Lighting_Room_Sensor,state_window,state_bed,real_action
 10:26,19,22,85,0.25,2.36,0
 14:00,19,24,59,0.49,2.27,0
 18:38,19,15,60,0.31,0.62,2
