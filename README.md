@@ -1,3 +1,6 @@
+
+![Prefab-hospital-patient-room-](https://user-images.githubusercontent.com/49193715/151528018-b0fed6e8-2ffc-4783-885b-f9aab8d73e7f.jpg)
+
 # Dataset description
 This dataset describes a simulation of sensors in the patient's room.
   
